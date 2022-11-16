@@ -1,0 +1,102 @@
+.b1{
+    background-color: brown;
+    color:#fff;
+}
+.b2{
+    background-color: crimson;
+    color: darkkhaki;
+}
+
+.b4 {
+    background-color:lightcoral;
+    color:darkblue;
+}
+.b5{
+    color: green;
+}
+.b6{
+    color: black;
+}
+.b7{
+    color: blue;
+}
+.b8{
+    background-color: lightblue;
+    color: blue;
+}
+.b9{
+    color:tomato;
+}
+.b10{
+    color: black;
+}
+.b11{
+    background-color: black;
+    color: red;   
+}
+.b12{
+    color: red;
+}
+.b15{
+    background-color: darkolivegreen;
+    color: tomato;
+}
+.a1{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-style: italic;
+}
+.redes{
+    background-color: darkgreen;
+    color: black;
+}
+.facebook{
+    background-color: mediumblue;
+    color: whitesmoke;
+    font-size: large;
+}
+.twitter{
+    background-color: aqua;
+    color: whitesmoke;
+    font-size: large;
+}
+.youtube{
+    background-color: red;
+    color: whitesmoke;
+    font-size: large;
+}
+.ig{
+    background-color: crimson;
+    color: whitesmoke;
+    font-size: large;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+.img-widht{
+    width: 100%;
+}  
+.container{
+  background-color: white;
+  color: black;  
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  }
+  footer{
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+  }
+  .margin{
+    margin-bottom: 45px;
+  }
